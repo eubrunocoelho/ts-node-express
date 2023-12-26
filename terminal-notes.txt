@@ -1,0 +1,8 @@
+$ npm init -y
+$ npm i typescript
+$ npm i -g typescript
+$ tsc --init
+$ npm i body-parser cross-env dotenv express rimraf
+$ npm i @types/body-parser @types/express @types/node
+$ npm i --save-dev concurrently nodemon
+$ npm i helmet
